@@ -3,7 +3,7 @@
     "aimee": "app",
     "description": "Aimee的reset模块，用于处理配置文件",
     "main": "reset.less",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "scripts": {
         "test": "uz -v"
     },
