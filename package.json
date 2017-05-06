@@ -1,27 +1,27 @@
 {
-    "name": "reset",
-    "aimee": "app",
-    "description": "Aimee的reset模块，用于处理配置文件",
-    "main": "reset.less",
-    "version": "1.0.3",
-    "scripts": {
-        "test": "uz -v"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Aimeejs/reset.git"
-    },
-    "keywords": [
-        "reset",
-        "aimee",
-        "aimee-app",
-        "uz"
-    ],
-    "author": "gavinning",
-    "license": "GPL-3.0",
-    "bugs": {
-        "url": "https://github.com/Aimeejs/reset/issues"
-    },
-    "homepage": "https://github.com/Aimeejs/reset",
-    "dependencies": {}
+  "name": "reset.less",
+  "aimee": "app",
+  "description": "reset.css",
+  "main": "reset.less",
+  "version": "1.0.4",
+  "scripts": {
+    "test": "uz -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aimeejs/reset.git"
+  },
+  "keywords": [
+    "reset",
+    "aimee",
+    "aimee-app",
+    "uz"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Aimeejs/reset/issues"
+  },
+  "homepage": "https://github.com/Aimeejs/reset",
+  "dependencies": {}
 }
