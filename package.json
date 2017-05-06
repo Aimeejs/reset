@@ -2,8 +2,8 @@
   "name": "reset.less",
   "aimee": "app",
   "description": "reset.css",
-  "main": "reset.less",
-  "version": "1.0.4",
+  "main": "reset.css",
+  "version": "1.0.5",
   "scripts": {
     "test": "uz -v"
   },
